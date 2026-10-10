@@ -1,0 +1,75 @@
+label,study,A,C,E,N,age_band,confidence,source,notes
+B&M '81 overall,Bouchard & McGue 1981: MZT r=.86 vs DZT r=.60,0.52,0.34,0.14,10218,mixed,falconer,,Pooled literature; mixed ages
+B&M '81 same-sex,Bouchard & McGue 1981: MZT .86 vs same-sex DZT .62,0.48,0.38,0.14,8342,mixed,falconer,,Pooled literature; mixed ages
+B&M '81 opp-sex,Bouchard & McGue 1981: MZT .86 vs opposite-sex DZT .57,0.58,0.28,0.14,6264,mixed,falconer,,Pooled literature; mixed ages
+B&M '81 male DZ,Bouchard & McGue 1981: MZT .86 vs male DZT .65,0.42,0.44,0.14,5636,mixed,falconer,,Pooled literature; mixed ages
+B&M '81 female DZ,Bouchard & McGue 1981: MZT .86 vs female DZT .61,0.5,0.36,0.14,5402,mixed,falconer,,Pooled literature; mixed ages
+Chipuer '90 LISREL,"Chipuer, Rovine & Plomin 1990 Table 4",0.51,0.35,0.14,8342,mixed,reported,10.1016/0160-2896(90)90011-H,"For twin context: total genetic=.51 (additive .32 + nonadditive .19), twin shared environment=.35, twin nonshared=.14."
+McGue et al. 1993,Adult life-span synthesis,0.8,0.0,0.2,5000,adult,approx,,Approximate synthesis point
+L&N 1976 NMSQT,"Loehlin & Nichols 1976, adolescents",0.48,0.38,0.14,850000,teen,falconer,,Large NMSQT twin sample
+TEDS early,"Davis, Haworth & Plomin 2009 early-childhood latent g",0.23,0.74,0.03,8791,child,reported,10.1111/j.1467-9280.2009.02433.x,Latent g
+TEDS middle,"Davis, Haworth & Plomin 2009 middle-childhood latent g",0.62,0.33,0.05,8791,child,reported,10.1111/j.1467-9280.2009.02433.x,Latent g
+Bartels '02 (5),Bartels et al. 2002 age 5,0.26,0.5,0.24,207,child,reported,10.1023/A:1019772628912,Longitudinal Dutch twins
+Bartels '02 (7),Bartels et al. 2002 age 7,0.39,0.3,0.31,191,child,reported,10.1023/A:1019772628912,Longitudinal Dutch twins
+Bartels '02 (10),Bartels et al. 2002 age 10,0.54,0.25,0.21,196,child,reported,10.1023/A:1019772628912,Longitudinal Dutch twins
+Bartels '02 (12),Bartels et al. 2002 age 12,0.64,0.21,0.15,190,child,reported,10.1023/A:1019772628912,Longitudinal Dutch twins
+Haworth '10 (9),GHCA pooled age 9,0.41,0.33,0.26,2680,child,reported,10.1038/mp.2009.55,Model-fitted age group
+Haworth '10 (12),GHCA pooled age 12,0.55,0.18,0.27,4934,child,reported,10.1038/mp.2009.55,Model-fitted age group
+Haworth '10 (17),GHCA pooled age 17,0.66,0.0,0.34,3075,teen,reported,10.1038/mp.2009.55,Model-fitted age group
+Devlin '97 model III,"Devlin, Daniels & Roeder 1997 preferred model",0.48,0.37,0.15,50470,mixed,reported,10.1038/41319,Preferred maternal-effects model III: total genetic=.48; twin maternal=.20 + common environment=.17 mapped to shared environment=.37; residual E=.15.
+Devlin '97 raw,"Devlin, Daniels & Roeder 1997 raw pooled correlations",0.52,0.33,0.15,50470,mixed,falconer,10.1038/41319,Falconer reconstruction from pooled MZT=.85 and DZT=.59; retained as a raw-comparison point.
+Haworth '09 high-g,Haworth et al. 2009 pooled top-15% high g,0.5,0.28,0.22,11000,mixed,reported,10.1007/s10519-009-9262-3,High-g liability-threshold model
+GHCA Ohio,"Haworth et al. 2010 site point, Ohio; mean age 6.07",0.42,0.34,0.24,292,child,falconer,10.1038/mp.2009.55,From site MZ/DZ correlations
+GHCA UK,"Haworth et al. 2010 site point, UK; mean age 11.57",0.48,0.19,0.33,4018,child,falconer,10.1038/mp.2009.55,From site MZ/DZ correlations
+GHCA Minnesota,"Haworth et al. 2010 site point, Minnesota; mean age 13",0.52,0.24,0.24,1856,teen,falconer,10.1038/mp.2009.55,From site MZ/DZ correlations
+GHCA Colorado,"Haworth et al. 2010 site point, Colorado; mean age 13.12",0.58,0.24,0.18,2847,teen,falconer,10.1038/mp.2009.55,From site MZ/DZ correlations
+GHCA Australia,"Haworth et al. 2010 site point, Australia; mean age 16",0.7,0.13,0.17,851,teen,falconer,10.1038/mp.2009.55,From site MZ/DZ correlations
+GHCA Netherlands,"Haworth et al. 2010 site point, Netherlands; broad age range",0.5,0.33,0.17,951,mixed,falconer,10.1038/mp.2009.55,Broad age range
+High-g Ohio,Haworth et al. 2009 high-g Ohio,0.15,0.65,0.2,292,child,reported,10.1007/s10519-009-9262-3,Top 15%; ACE model
+High-g UK,Haworth et al. 2009 high-g UK,0.52,0.2,0.28,4018,child,reported,10.1007/s10519-009-9262-3,Top 15%; ACE model
+High-g Minnesota,Haworth et al. 2009 high-g Minnesota,0.48,0.28,0.23,1856,teen,reported,10.1007/s10519-009-9262-3,Top 15%; sums to .99; normalized by script
+High-g Colorado,Haworth et al. 2009 high-g Colorado,0.53,0.32,0.15,2847,teen,reported,10.1007/s10519-009-9262-3,Top 15%; ACE model
+High-g Australia,Haworth et al. 2009 high-g Australia,0.48,0.33,0.19,851,teen,reported,10.1007/s10519-009-9262-3,Top 15%; ACE model
+High-g Netherlands,Haworth et al. 2009 high-g Netherlands,0.34,0.45,0.21,951,mixed,reported,10.1007/s10519-009-9262-3,Top 15%; broad ages
+High-g childhood,Haworth et al. 2009 high-g childhood,0.54,0.28,0.18,2680,child,reported,10.1007/s10519-009-9262-3,Top 15%; age group
+High-g adolescence,Haworth et al. 2009 high-g adolescence,0.6,0.13,0.27,4934,child,reported,10.1007/s10519-009-9262-3,Paper age category mean 12; plotted as child by 0-12 convention
+High-g young adulthood,Haworth et al. 2009 high-g young adulthood,0.47,0.32,0.21,3075,teen,reported,10.1007/s10519-009-9262-3,Age category 14-34; mixed by range but mean 17
+Petrill '98 (14m),"Petrill et al. 1998 unselected MALTS, 14 months",0.43,0.18,0.39,366,child,reported,10.1111/j.1467-8624.1998.tb06133.x,Unselected sample
+Petrill '98 (20m),"Petrill et al. 1998 unselected MALTS, 20 months",0.34,0.46,0.2,322,child,reported,10.1111/j.1467-8624.1998.tb06133.x,Unselected sample
+Petrill '98 (24m),"Petrill et al. 1998 unselected MALTS, 24 months",0.39,0.43,0.18,327,child,reported,10.1111/j.1467-8624.1998.tb06133.x,Unselected sample
+Petrill '98 (36m),"Petrill et al. 1998 unselected MALTS, 36 months",0.54,0.24,0.22,301,child,reported,10.1111/j.1467-8624.1998.tb06133.x,Unselected sample
+Ronald '02 ages 2-4,"Ronald, Spinath & Plomin 2002 whole sample ages 2-4",0.24,0.71,0.05,1943,child,reported,10.1080/1359813022000048761,Aggregate whole-range estimate from model including opposite-sex pairs
+Rijsdijk '02 FSIQ,"Rijsdijk, Vernon & Boomsma 2002 full-scale IQ, mean age 17.6",0.82,0.0,0.18,194,teen,reported,10.1023/A:1016021128949,AE best fit
+Posthuma '02 VIQ,"Posthuma et al. 2002 verbal IQ, adult cohorts",0.85,0.0,0.15,271,adult,reported,10.1016/S0301-0511(02)00057-1,AE model; mean ages ~26 and 50
+Posthuma '02 PIQ,"Posthuma et al. 2002 performance IQ, adult cohorts",0.69,0.0,0.31,271,adult,reported,10.1016/S0301-0511(02)00057-1,AE model; same sample as VIQ
+Tambs '84 FSIQ,"Tambs, Sundet & Magnus 1984 full-scale IQ, mean age ~41",0.81,0.07,0.12,80,adult,reported,,Uncorrected variance components; measurement error remains in E
+Finkel '95 adult,"Finkel et al. 1995 general cognitive factor, younger/middle-aged adults",0.81,0.0,0.19,250,adult,reported,10.1007/BF02253371,Shared environment nonsignificant; pooled/equated estimate
+Finkel '95 older Swedish,"Finkel et al. 1995 general cognitive factor, older Swedish twins",0.54,0.0,0.46,82,adult,reported,10.1007/BF02253371,Older cohort ~65-85
+Pedersen '92 GCA,Pedersen et al. 1992 SATSA general cognitive ability,0.81,0.0,0.19,302,adult,reported,10.1111/j.1467-9280.1992.tb00045.x,Mixed reared-apart/reared-together design
+Turkheimer '03 SES=0,"Turkheimer et al. 2003 FSIQ interaction-model endpoint, SES=0",0.011647,0.6077,0.380653,319,child,derived-from-reported-model,10.1046/j.0956-7976.2003.psci_1475.x,Age 7; exact proportions derived from reported FSIQ path coefficients at SES=0.
+Turkheimer '03 SES=100,"Turkheimer et al. 2003 FSIQ interaction-model endpoint, SES=100",0.907244,0.062993,0.029763,319,child,derived-from-reported-model,10.1046/j.0956-7976.2003.psci_1475.x,Age 7; exact proportions derived from reported FSIQ path coefficients at SES=100.
+Sundet '05 general ability,"Sundet et al. 2005 Norwegian male twins, general ability, ages mostly 18-20",0.64,0.18,0.18,2593,adult,reported,10.1375/1832427054936745,1181 MZ + 1412 DZ pairs; direct ACE structural-equation estimate.
+Sundet '88 general ability,"Sundet, Tambs, Magnus & Berg 1988 Norwegian Army general ability",0.68,0.16,0.16,1850,adult,reported,10.1016/0160-2896(88)90022-0,"Primary-paper estimate from 757 MZ + 1093 DZ male twin pairs, tested in late teens/early twenties. Direct LISREL variance components."
+Tambs '88 general ability,"Tambs, Sundet & Magnus 1988 Norwegian Army general ability",0.54,0.3,0.16,261,adult,reported,10.1016/0191-8869(88)90069-4,"107 MZ + 154 DZ pairs, age 18-19; genetic .54, between-family env .30, within-family env .16."
+Bishop '03 (1y),"Bishop et al. 2003 developmental model, age 1",0.56,0.03,0.41,607,child,reported,10.1016/S0160-2896(02)00112-5,Combined Longitudinal Twin Study + Colorado Adoption Project; repeated longitudinal wave. N is approximate complete-pair count from age-specific correlations; model used all available raw data.
+Bishop '03 (2y),"Bishop et al. 2003 developmental model, age 2",0.63,0.18,0.2,563,child,reported,10.1016/S0160-2896(02)00112-5,Combined Longitudinal Twin Study + Colorado Adoption Project; repeated longitudinal wave. N is approximate complete-pair count from age-specific correlations; model used all available raw data.
+Bishop '03 (3y),"Bishop et al. 2003 developmental model, age 3",0.43,0.3,0.28,531,child,reported,10.1016/S0160-2896(02)00112-5,Combined Longitudinal Twin Study + Colorado Adoption Project; repeated longitudinal wave. N is approximate complete-pair count from age-specific correlations; model used all available raw data.
+Bishop '03 (4y),"Bishop et al. 2003 developmental model, age 4",0.52,0.22,0.27,541,child,reported,10.1016/S0160-2896(02)00112-5,Combined Longitudinal Twin Study + Colorado Adoption Project; repeated longitudinal wave. N is approximate complete-pair count from age-specific correlations; model used all available raw data.
+Bishop '03 (7y),"Bishop et al. 2003 developmental model, age 7",0.73,0.03,0.25,548,child,reported,10.1016/S0160-2896(02)00112-5,Combined Longitudinal Twin Study + Colorado Adoption Project; repeated longitudinal wave. N is approximate complete-pair count from age-specific correlations; model used all available raw data.
+Bishop '03 (9y),"Bishop et al. 2003 developmental model, age 9",0.7,0.03,0.27,409,child,reported,10.1016/S0160-2896(02)00112-5,Combined Longitudinal Twin Study + Colorado Adoption Project; repeated longitudinal wave. N is approximate complete-pair count from age-specific correlations; model used all available raw data.
+Bishop '03 (10y),"Bishop et al. 2003 developmental model, age 10",0.74,0.03,0.23,339,child,reported,10.1016/S0160-2896(02)00112-5,Combined Longitudinal Twin Study + Colorado Adoption Project; repeated longitudinal wave. N is approximate complete-pair count from age-specific correlations; model used all available raw data.
+Bishop '03 (12y),"Bishop et al. 2003 developmental model, age 12",0.49,0.12,0.4,186,child,reported,10.1016/S0160-2896(02)00112-5,Combined Longitudinal Twin Study + Colorado Adoption Project; repeated longitudinal wave. N is approximate complete-pair count from age-specific correlations; model used all available raw data.
+Wilson '83 (6m),"Wilson 1983 Louisville Twin Study, age 6m",0.06,0.69,0.25,182,child,falconer,10.2307/1129693,"Repeated longitudinal wave; Falconer reconstruction from reported rMZ=0.75, rDZ=0.72."
+Wilson '83 (9m),"Wilson 1983 Louisville Twin Study, age 9m",0.32,0.35,0.33,157,child,falconer,10.2307/1129693,"Repeated longitudinal wave; Falconer reconstruction from reported rMZ=0.67, rDZ=0.51."
+Wilson '83 (12m),"Wilson 1983 Louisville Twin Study, age 12m",0.1,0.58,0.32,181,child,falconer,10.2307/1129693,"Repeated longitudinal wave; Falconer reconstruction from reported rMZ=0.68, rDZ=0.63."
+Wilson '83 (18m),"Wilson 1983 Louisville Twin Study, age 18m",0.34,0.48,0.18,205,child,falconer,10.2307/1129693,"Repeated longitudinal wave; Falconer reconstruction from reported rMZ=0.82, rDZ=0.65."
+Wilson '83 (24m),"Wilson 1983 Louisville Twin Study, age 24m",0.16,0.65,0.19,203,child,falconer,10.2307/1129693,"Repeated longitudinal wave; Falconer reconstruction from reported rMZ=0.81, rDZ=0.73."
+Wilson '83 (30m),"Wilson 1983 Louisville Twin Study, age 30m",0.4,0.45,0.15,165,child,falconer,10.2307/1129693,"Repeated longitudinal wave; Falconer reconstruction from reported rMZ=0.85, rDZ=0.65."
+Wilson '83 (36m),"Wilson 1983 Louisville Twin Study, age 36m",0.18,0.7,0.12,229,child,falconer,10.2307/1129693,"Repeated longitudinal wave; Falconer reconstruction from reported rMZ=0.88, rDZ=0.79."
+Wilson '83 (4y),"Wilson 1983 Louisville Twin Study, age 4y",0.24,0.59,0.17,225,child,falconer,10.2307/1129693,"Repeated longitudinal wave; Falconer reconstruction from reported rMZ=0.83, rDZ=0.71."
+Wilson '83 (5y),"Wilson 1983 Louisville Twin Study, age 5y",0.38,0.47,0.15,267,child,falconer,10.2307/1129693,"Repeated longitudinal wave; Falconer reconstruction from reported rMZ=0.85, rDZ=0.66."
+Wilson '83 (6y),"Wilson 1983 Louisville Twin Study, age 6y",0.54,0.32,0.14,280,child,falconer,10.2307/1129693,"Repeated longitudinal wave; Falconer reconstruction from reported rMZ=0.86, rDZ=0.59."
+Wilson '83 (7y),"Wilson 1983 Louisville Twin Study, age 7y",0.5,0.34,0.16,235,child,falconer,10.2307/1129693,"Repeated longitudinal wave; Falconer reconstruction from reported rMZ=0.84, rDZ=0.59."
+Wilson '83 (8y),"Wilson 1983 Louisville Twin Study, age 8y",0.34,0.49,0.17,284,child,falconer,10.2307/1129693,"Repeated longitudinal wave; Falconer reconstruction from reported rMZ=0.83, rDZ=0.66."
+Wilson '83 (9y),"Wilson 1983 Louisville Twin Study, age 9y",0.36,0.47,0.17,171,child,falconer,10.2307/1129693,"Repeated longitudinal wave; Falconer reconstruction from reported rMZ=0.83, rDZ=0.65."
+Wilson '83 (15y),"Wilson 1983 Louisville Twin Study, age 15y",0.68,0.2,0.12,142,teen,falconer,10.2307/1129693,"Repeated longitudinal wave; Falconer reconstruction from reported rMZ=0.88, rDZ=0.54."
